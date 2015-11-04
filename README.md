@@ -1,6 +1,7 @@
 Cordova CameraPreview Plugin
 ====================
 
+Just a fork of original project. 
 Cordova plugin that allows camera interaction from HTML code.<br/>
 Show camera preview popup on top of the HTML.<br/>
 
@@ -19,7 +20,7 @@ Show camera preview popup on top of the HTML.<br/>
 <p><b>Installation:</b></p>
 
 ```
-cordova plugin add https://github.com/mbppower/CordovaCameraPreview.git
+cordova plugin add https://github.com/amikl/CordovaCameraPreview.git
 ```
 
 <b>Phonegap Build:</b><br/>
